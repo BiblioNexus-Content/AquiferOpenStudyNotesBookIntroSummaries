@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124272,
+    "reference_id": 26444,
+    "title": "Exodus",
+    "media_type": "Text",
+    "index_reference": "02000000",
+    "language": "por",
+    "content": "<p>O livro de Êxodo</p><h2>Propósito</h2><p>Relatar a libertação dos hebreus do Egito e o estabelecimento de sua aliança e práticas de adoração</p><h2>Autor</h2><p>Moisés, de acordo com a tradição</p><h2>Data</h2><p>Registra eventos que provavelmente ocorreram em 1526–1446 a.C. ou 1350–1270 a.C.</p><h2>Cenário</h2><p>Começa com os hebreus na escravidão no Egito e termina com o povo da aliança de Deus a caminho da Terra Prometida</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001001",
+          "end_ref_usfm": "EXO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27665,
+    "reference_id": 26450,
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "08000000",
+    "language": "fra",
+    "content": "<p>Le livre de Ruth</p><h2>Dessein</h2><p>Raconter l’histoire inspirante de Ruth et retracer les origines du roi David</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Rapporte des événements survenus vers 1100 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Pendant la période des juges, pendant et immédiatement après une famine qui avait frappé Bethléhem</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

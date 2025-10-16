@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27671,
+    "reference_id": 26456,
+    "title": "2 Chroniques",
+    "media_type": "Text",
+    "index_reference": "14000000",
+    "language": "fra",
+    "content": "<p>Le deuxième livre des Chroniques</p><h2>Dessein</h2><p>Inspirer aux lecteurs l’espérance d’un Royaume d’Israël restauré, caractérisé par un juste culte</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Probablement écrit vers 400 av.&nbsp;J.-C.&nbsp;; rapporte des événements survenus vers 971–538 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>La Judée après l’exil, pendant la domination persane&nbsp;; le récit commence avec le règne de Salomon et se termine avec l’édit de Cyrus autorisant le peuple à retourner en Judée</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14001001",
+          "start_ref_usfm": "2CH 1:1",
+          "end_ref": "14001001",
+          "end_ref_usfm": "2CH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

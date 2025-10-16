@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27379,
+    "reference_id": 26464,
+    "title": "Song of Songs",
+    "media_type": "Text",
+    "index_reference": "22000000",
+    "language": "eng",
+    "content": "<p>The Book of Song of Songs</p><h2>Purpose</h2><p>To celebrate God’s gifts of love and sexuality</p><h2>Author</h2><p>Solomon; other possible contributors</p><h2>Date</h2><p>Unknown, but after 971 BC</p><h2>Setting</h2><p>The book is associated with King Solomon’s reign, but its lack of a clear storyline makes it difficult to identify the setting</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "22001001",
+          "start_ref_usfm": "SNG 1:1",
+          "end_ref": "22001001",
+          "end_ref_usfm": "SNG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

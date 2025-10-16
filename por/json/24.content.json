@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124294,
+    "reference_id": 26466,
+    "title": "Jeremiah",
+    "media_type": "Text",
+    "index_reference": "24000000",
+    "language": "por",
+    "content": "<p>O livro de Jeremias</p><h2>Propósito</h2><p>Para advertir Judá da destruição vindoura, descrever as razões para o julgamento de Deus e encorajar a devoção renovada ao Senhor</p><h2>Autor</h2><p>O conteúdo decorre de Jeremias; possivelmente escrito por Baruque</p><h2>Data</h2><p>Por volta de 627–580 a.C.</p><h2>Cenário</h2><p>Os anos finais do reino de Judá, a invasão e destruição de Jerusalém pelos babilônios, e os anos iniciais do exílio de Judá</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24001001",
+          "start_ref_usfm": "JER 1:1",
+          "end_ref": "24001001",
+          "end_ref_usfm": "JER 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

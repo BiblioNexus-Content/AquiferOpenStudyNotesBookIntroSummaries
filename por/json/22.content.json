@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124292,
+    "reference_id": 26464,
+    "title": "Song of Songs",
+    "media_type": "Text",
+    "index_reference": "22000000",
+    "language": "por",
+    "content": "<p>O livro de Cantares</p><h2>Propósito</h2><p>Para celebrar os presentes de Deus do amor e da sexualidade</p><h2>Autor</h2><p>Salomão; outros possíveis contribuidores</p><h2>Data</h2><p>Desconhecido, mas após 971 a.C.</p><h2>Cenário</h2><p>O livro está associado com o reinado de Salomão, mas sua falta de enredo claro desacredita qualquer forte identificação de cenário</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "22001001",
+          "start_ref_usfm": "SNG 1:1",
+          "end_ref": "22001001",
+          "end_ref_usfm": "SNG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27688,
+    "reference_id": 26473,
+    "title": "Abdias",
+    "media_type": "Text",
+    "index_reference": "31000000",
+    "language": "fra",
+    "content": "<p>Le livre d’Abdias</p><h2>Dessein</h2><p>Annoncer le jugement de Dieu sur Edom, qui s’était réjoui de la destruction de Juda et y avait participé</p><h2>Auteur</h2><p>Abdias</p><h2>Date</h2><p>Vers 586 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Probablement très peu de temps après la destruction de Jérusalem par les Babyloniens</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "31001001",
+          "start_ref_usfm": "OBA 1:1",
+          "end_ref": "31001001",
+          "end_ref_usfm": "OBA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

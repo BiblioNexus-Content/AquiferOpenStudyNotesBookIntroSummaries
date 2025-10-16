@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27661,
+    "reference_id": 26446,
+    "title": "Nombres",
+    "media_type": "Text",
+    "index_reference": "04000000",
+    "language": "fra",
+    "content": "<p>Le livre des Nombres</p><h2>Dessein</h2><p>Documenter la transition de la génération infidèle qui est sortie d’Egypte à la génération qui entrerait dans la terre promise</p><h2>Auteur</h2><p>Moïse, d’après la tradition</p><h2>Date</h2><p>Rapporte des événements survenus vers 1445–1406 av.&nbsp;J.-C. ou vers 1269–1230 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Le livre commence avec les Israélites au Mont Sinaï, retrace leur parcours à travers le désert et se termine sur leur arrivée dans les plaines de Moab, aux portes de la terre promise</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04001001",
+          "start_ref_usfm": "NUM 1:1",
+          "end_ref": "04001001",
+          "end_ref_usfm": "NUM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

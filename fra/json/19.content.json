@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27676,
+    "reference_id": 26461,
+    "title": "Psaumes",
+    "media_type": "Text",
+    "index_reference": "19000000",
+    "language": "fra",
+    "content": "<p>Le livre des Psaumes</p><h2>Dessein</h2><p>Louer et prier Dieu, offrir à son peuple des textes pour l’adoration, faire réfléchir à la souveraineté de Dieu et à certaines questions existentielles les plus difficiles</p><h2>Auteur</h2><p>Divers&nbsp;; presque la moitié des Psaumes sont en lien avec David</p><h2>Date</h2><p>Écrit au cours de plusieurs siècles&nbsp;; le processus de collecte et d’édition a probablement été achevé après l’exil babylonien</p><h2>Cadre</h2><p>Divers, mais l’activité éditoriale et la compilation des Psaumes s’est faite essentiellement dans un cadre post-exil</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001001",
+          "end_ref_usfm": "PSA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

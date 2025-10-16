@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27682,
+    "reference_id": 26467,
+    "title": "Lamentations",
+    "media_type": "Text",
+    "index_reference": "25000000",
+    "language": "fra",
+    "content": "<p>Le livre des Lamentations</p><h2>Dessein</h2><p>Exprimer une profonde tristesse à cause de la destruction de Jérusalem et offrir une lueur d’espoir au peuple de Dieu</p><h2>Auteur</h2><p>Probablement Jérémie</p><h2>Date</h2><p>Vers 586 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Après l’invasion babylonienne, la destruction de Jérusalem et l’exil du peuple de Juda</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "25001001",
+          "start_ref_usfm": "LAM 1:1",
+          "end_ref": "25001001",
+          "end_ref_usfm": "LAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

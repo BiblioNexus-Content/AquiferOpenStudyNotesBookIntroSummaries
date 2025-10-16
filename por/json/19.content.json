@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124289,
+    "reference_id": 26461,
+    "title": "Psalms",
+    "media_type": "Text",
+    "index_reference": "19000000",
+    "language": "por",
+    "content": "<p>O livro de Salmos</p><h2>Propósito</h2><p>Oferecer louvor e oração a Deus, fornecer ao povo de Deus textos para adoração, e fornecer reflexão sobre a soberania de Deus e algumas das perguntas mais difíceis da vida</p><h2>Autor</h2><p>Vários; quase metade está ligado a Davi</p><h2>Data</h2><p>Escrito ao longo de muitos séculos; o processo de coleta e edição foi provavelmente concluído após o exílio babilônico</p><h2>Cenário</h2><p>Variado, mas um cenário pós-exílico explica grande parte da atividade editorial e agrupamento dos salmos</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001001",
+          "end_ref_usfm": "PSA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

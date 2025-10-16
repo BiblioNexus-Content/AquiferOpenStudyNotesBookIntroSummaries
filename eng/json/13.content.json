@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27370,
+    "reference_id": 26455,
+    "title": "1 Chronicles",
+    "media_type": "Text",
+    "index_reference": "13000000",
+    "language": "eng",
+    "content": "<p>The First Book of Chronicles</p><h2>Purpose</h2><p>To instill hope, especially by appealing to the promise made to King David, among Jews who had returned to their land after living in exile. They were, however, still living in subjugation</p><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Likely written around 400 BC, mainly recording events that occurred around 1011–971 BC</p><h2>Setting</h2><p>Judea had been resettled by Jews following the Babylonian exile, but these Jews were still living under foreign (Persian) rule. The account essentially traces the reign of David</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

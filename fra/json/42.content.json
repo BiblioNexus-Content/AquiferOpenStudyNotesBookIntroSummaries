@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27699,
+    "reference_id": 26484,
+    "title": "Luc",
+    "media_type": "Text",
+    "index_reference": "42000000",
+    "language": "fra",
+    "content": "<p>L’Evangile selon Luc</p><h2>Dessein</h2><p>Écrire un récit historique fiable de la vie de Jésus, qui confirmerait la vérité du message chrétien</p><h2>Auteur</h2><p>Luc, un médecin et compagnon occasionnel de l’apôtre Paul</p><h2>Date</h2><p>Vers 59–63 ap.&nbsp;J.-C., pendant que Paul était prisonnier à Rome, ou entre 70 et 90 ap.&nbsp;J.-C., avec pour source l’Evangile de Marc</p><h2>Cadre</h2><p>Écrit à une époque de tension croissante entre Juifs et chrétiens&nbsp;; Luc cherche à démontrer que tous ceux qui croyaient en Jésus comme le Messie, Juifs et non-Juifs, font partie du nouveau peuple de Dieu</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001001",
+          "end_ref_usfm": "LUK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

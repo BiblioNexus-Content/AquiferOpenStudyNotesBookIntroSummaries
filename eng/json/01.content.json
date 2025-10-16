@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27358,
+    "reference_id": 26443,
+    "title": "Genesis",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "eng",
+    "content": "<p>The Book of Genesis</p><h2>Purpose</h2><p>To trace the establishment of God’s plan to overcome sin through his chosen people, Israel</p><h2>Author</h2><p>Moses, according to tradition</p><h2>Date</h2><p>Records primeval events (from the earliest times) and events from the time when the patriarchs lived (around 2100–1700 BC)</p><h2>Setting</h2><p>A variety of places in the Middle East, focusing heavily on the patriarchs (Abraham, Isaac, Jacob and his sons) during their time in Canaan and Egypt</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

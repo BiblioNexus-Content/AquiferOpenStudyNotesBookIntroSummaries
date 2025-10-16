@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124302,
+    "reference_id": 26474,
+    "title": "Jonah",
+    "media_type": "Text",
+    "index_reference": "32000000",
+    "language": "por",
+    "content": "<p>O livro de Jonas</p><h2>Propósito</h2><p>Para recontar uma história do escopo de longo alcance da soberania e salvação de Deus</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Por volta de 755 a.C.</p><h2>Cenário</h2><p>Um tempo em que a influência da Assíria em Israel havia diminuído temporariamente, provavelmente durante o reinado de Jeroboão II</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "32001001",
+          "start_ref_usfm": "JON 1:1",
+          "end_ref": "32001001",
+          "end_ref_usfm": "JON 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

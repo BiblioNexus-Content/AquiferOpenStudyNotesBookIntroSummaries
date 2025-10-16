@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124280,
+    "reference_id": 26452,
+    "title": "2 Samuel",
+    "media_type": "Text",
+    "index_reference": "10000000",
+    "language": "por",
+    "content": "<p>O segundo livro de Samuel</p><h2>Propósito</h2><p>Descrever o reinado de Davi e demonstrar o compromisso de Deus com a linhagem de Davi</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Registra eventos que ocorreram por volta de 1011–971 a.C.</p><h2>Cenário</h2><p>Após a morte de Saul, Davi tentou estabelecer seu trono sobre todo Israel e expandir o território israelita</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001001",
+          "end_ref_usfm": "2SA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

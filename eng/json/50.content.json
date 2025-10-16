@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27407,
+    "reference_id": 26492,
+    "title": "Philippians",
+    "media_type": "Text",
+    "index_reference": "50000000",
+    "language": "eng",
+    "content": "<p>Paul’s Letter to the Philippians</p><h2>Purpose</h2><ol><li><p>To thank the Philippians for their recent gift </p></li><li><p>To encourage the Philippians to experience joy and contentment in their suffering</p></li></ol><h2>Author</h2><p>Paul</p><h2>Date</h2><p>Traditionally, AD 60–62, but possibly earlier, around AD 53–56</p><h2>Setting</h2><p>Written while Paul was in prison and while the church at Philippi, which had recently sent Paul a financial gift, was also being persecuted</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

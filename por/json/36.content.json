@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124306,
+    "reference_id": 26478,
+    "title": "Zephaniah",
+    "media_type": "Text",
+    "index_reference": "36000000",
+    "language": "por",
+    "content": "<p>O livro de Sofonias</p><h2>Propósito</h2><p>Para advertir sobre a vinda do “dia do Senhor” e exortar o arrependimento</p><h2>Autor</h2><p>Sofonias</p><h2>Data</h2><p>Provavelmente entre 635 e 622 a.C.</p><h2>Cenário</h2><p>Perto do início do reinado do rei Josias em Judá, antes de suas reformas religiosas</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "36001001",
+          "start_ref_usfm": "ZEP 1:1",
+          "end_ref": "36001001",
+          "end_ref_usfm": "ZEP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

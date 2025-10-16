@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27403,
+    "reference_id": 26488,
+    "title": "1 Corinthians",
+    "media_type": "Text",
+    "index_reference": "46000000",
+    "language": "eng",
+    "content": "<p>Paul’s First Letter to the Corinthians</p><h2>Purpose</h2><p>To clarify some questions the Corinthian church had raised and to address a series of specific problems that had arisen in the church there</p><h2>Author</h2><p>Paul</p><h2>Date</h2><p>AD 53–56</p><h2>Setting</h2><p>Written from Ephesus during Paul’s third missionary journey, in response to reports and questions he had received from the church in Corinth (see <a href=\"https://ref.ly/1Cor1:11\">1 Corinthians 1:11</a>; <a href=\"https://ref.ly/1Cor5:1\">5:1</a>; <a href=\"https://ref.ly/1Cor7:1\">7:1</a>; <a href=\"https://ref.ly/1Cor8:1\">8:1</a>; <a href=\"https://ref.ly/1Cor12:1\">12:1</a>; <a href=\"https://ref.ly/1Cor16:1\">16:1</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46001001",
+          "start_ref_usfm": "1CO 1:1",
+          "end_ref": "46001001",
+          "end_ref_usfm": "1CO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

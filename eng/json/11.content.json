@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27368,
+    "reference_id": 26453,
+    "title": "1 Kings",
+    "media_type": "Text",
+    "index_reference": "11000000",
+    "language": "eng",
+    "content": "<p>The First Book of Kings</p><h2>Purpose</h2><p>To outline </p><ol><li><p>the glory of Solomon’s reign, </p></li><li><p>the division of the kingdom, and </p></li><li><p>the degradation of Israel</p></li></ol><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 973–853 BC</p><h2>Setting</h2><p>Begins at the high point of the Israelite monarchy (Solomon’s reign) and ends with a divided kingdom and a low point in the Israelite monarchy (Ahab’s reign)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001001",
+          "end_ref_usfm": "1KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

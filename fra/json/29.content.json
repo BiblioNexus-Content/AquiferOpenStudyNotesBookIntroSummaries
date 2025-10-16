@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27686,
+    "reference_id": 26471,
+    "title": "Joël",
+    "media_type": "Text",
+    "index_reference": "29000000",
+    "language": "fra",
+    "content": "<p>Le livre de Joël</p><h2>Dessein</h2><p>Manifester la souveraineté et le jugement de Dieu, pousser les responsables à la repentance et promettre la restauration</p><h2>Auteur</h2><p>Joël</p><h2>Date</h2><p>Inconnue</p><h2>Cadre</h2><p>Le pays de Juda, pendant une invasion catastrophique de sauterelles (diverses interprétations, au sens propre ou au sens figuré)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "29001001",
+          "start_ref_usfm": "JOL 1:1",
+          "end_ref": "29001001",
+          "end_ref_usfm": "JOL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

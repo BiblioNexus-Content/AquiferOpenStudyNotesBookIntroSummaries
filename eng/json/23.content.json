@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27380,
+    "reference_id": 26465,
+    "title": "Isaiah",
+    "media_type": "Text",
+    "index_reference": "23000000",
+    "language": "eng",
+    "content": "<p>The Book of Isaiah</p><h2>Purpose</h2><ol><li><p>To warn Judah of impending judgment </p></li><li><p>To offer hope about a remnant of God’s people who survive the impending judgment</p></li></ol><h2>Author</h2><p>Isaiah</p><h2>Date</h2><p>Around 740–685 BC</p><h2>Setting</h2><p>The southern kingdom of Judah, around the time of Assyria’s conquest of the northern kingdom of Israel</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

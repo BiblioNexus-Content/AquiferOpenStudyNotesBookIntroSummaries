@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124323,
+    "reference_id": 26495,
+    "title": "2 Thessalonians",
+    "media_type": "Text",
+    "index_reference": "53000000",
+    "language": "por",
+    "content": "<p>A segunda carta de Paulo aos tessalonicenses</p><h2>Propósito</h2><p>Infundir esperança no meio da perseguição e abordar o falso ensino e ociosidade na comunidade</p><h2>Autor</h2><p>Paulo, com Silas e Timóteo</p><h2>Data</h2><p>Por volta de 51 d.C.</p><h2>Cenário</h2><p>Escrito logo após 1 Tessalonicenses, depois que a perseguição havia aumentado em Tessalônica e o falso ensino havia emergido</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

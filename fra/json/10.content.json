@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27667,
+    "reference_id": 26452,
+    "title": "2 Samuel",
+    "media_type": "Text",
+    "index_reference": "10000000",
+    "language": "fra",
+    "content": "<p>Le deuxième livre de Samuel</p><h2>Dessein</h2><p>Décrire le règne de David et manifester l’engagement de Dieu envers sa lignée</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Rapporte des événements survenus vers 1011–971 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Après la mort de Saül, David a cherché à établir son trône sur tout Israël et à étendre le territoire d’Israël</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001001",
+          "end_ref_usfm": "2SA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

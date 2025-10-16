@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124322,
+    "reference_id": 26494,
+    "title": "1 Thessalonians",
+    "media_type": "Text",
+    "index_reference": "52000000",
+    "language": "por",
+    "content": "<p>A primeira carta de Paulo aos tessalonicenses</p><h2>Propósito</h2><p>Expressar ação de graças pela fé dos crentes de Tessalônica e dar-lhes instruções adicionais sobre o comportamento cristão e o retorno do Senhor</p><h2>Autor</h2><p>Paulo, com Silas e Timóteo</p><h2>Data</h2><p>Por volta de 50 d.C.</p><h2>Cenário</h2><p>Escrito enquanto Paulo estava em Corinto, depois que ele havia recebido um relatório positivo de Timóteo sobre a igreja em Tessalônica</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124333,
+    "reference_id": 26505,
+    "title": "2 John",
+    "media_type": "Text",
+    "index_reference": "63000000",
+    "language": "por",
+    "content": "<p>A segunda carta de João</p><h2>Propósito</h2><p>Delinear a resposta apropriada aos falsos mestres e encorajar os crentes a amarem uns aos outros</p><h2>Autor</h2><p>Provavelmente o apóstolo João</p><h2>Data</h2><p>Por volta de 85–90 d.C.</p><h2>Cenário</h2><p>Escrito para uma comunidade de crentes — provavelmente na Ásia Menor — que já haviam encontrado falsos mestres ou provavelmente os encontrariam em breve</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "63001001",
+          "start_ref_usfm": "2JN 1:1",
+          "end_ref": "63001001",
+          "end_ref_usfm": "2JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27684,
+    "reference_id": 26469,
+    "title": "Daniel",
+    "media_type": "Text",
+    "index_reference": "27000000",
+    "language": "fra",
+    "content": "<p>Le livre de Daniel</p><h2>Dessein</h2><p>Manifester la souveraineté de Dieu sur tous, y compris les puissances apathiques ou antagonistes</p><h2>Auteur</h2><p>Probablement Daniel</p><h2>Date</h2><p>Vers 605–535 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Babylone, à partir de la première vague d’exilés de Juda et jusqu’au décret de Cyrus autorisant le retour des Juifs d’exil</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001001",
+          "start_ref_usfm": "DAN 1:1",
+          "end_ref": "27001001",
+          "end_ref_usfm": "DAN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

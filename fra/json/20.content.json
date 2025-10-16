@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27677,
+    "reference_id": 26462,
+    "title": "Proverbes",
+    "media_type": "Text",
+    "index_reference": "20000000",
+    "language": "fra",
+    "content": "<p>Le livre des Proverbes</p><h2>Dessein</h2><p>Offrir de la sagesse pratique pour prendre des décisions et ordonner sa vie</p><h2>Auteur</h2><p>Divers&nbsp;; beaucoup de Proverbes sont attribués à Salomon</p><h2>Date</h2><p>Écrit et compile au cours de plusieurs siècles, à partir du règne de Salomon (971–931&nbsp;av.&nbsp;J.-C.) et au moins jusqu’au règne d’Ezéchias (728–686 av.&nbsp;J.-C.)</p><h2>Cadre</h2><p>En partie adressé à un jeune homme&nbsp;; d’autres parties contiennent des allusions à divers cadres</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001001",
+          "end_ref_usfm": "PRO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

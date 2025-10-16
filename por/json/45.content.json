@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124315,
+    "reference_id": 26487,
+    "title": "Romans",
+    "media_type": "Text",
+    "index_reference": "45000000",
+    "language": "por",
+    "content": "<p>A carta de Paulo aos romanos</p><h2>Propósito</h2><p>Delinear as Boas Novas e abordar as divisões teológicas e sociais que haviam surgido em uma igreja composta de judeus e gentios</p><h2>Autor</h2><p>Paulo</p><h2>Data</h2><p>Provavelmente por volta de 57 d.C., perto do final de sua terceira jornada missionária</p><h2>Cenário</h2><p>Escrito — provavelmente em Corinto — no final da atividade missionária de Paulo, quando ele estava fazendo planos para visitar a igreja em Roma em seu caminho para a Espanha, após entregar uma doação à igreja de Jerusalém</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45001001",
+          "start_ref_usfm": "ROM 1:1",
+          "end_ref": "45001001",
+          "end_ref_usfm": "ROM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

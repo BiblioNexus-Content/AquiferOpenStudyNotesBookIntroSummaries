@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27708,
+    "reference_id": 26493,
+    "title": "Colossiens",
+    "media_type": "Text",
+    "index_reference": "51000000",
+    "language": "fra",
+    "content": "<p>La lettre de Paul aux Colossiens</p><h2>Dessein</h2><p>Lutter contre les faux enseignements à Colosses, en mettant l’emphase sur la suprématie de Christ et en insistant sur le fait que la véritable croissance spirituelle et vie morale émanent de lui</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Traditionnellement, 60–62 ap.&nbsp;J.-C., mais peut-être plus tôt, vers 53–56 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit alors que Paul était en prison, après qu’il ait entendu parler, probablement à travers Epaphras, des faux enseignements survenus dans l’église de Colosses</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "51001001",
+          "start_ref_usfm": "COL 1:1",
+          "end_ref": "51001001",
+          "end_ref_usfm": "COL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124310,
+    "reference_id": 26482,
+    "title": "Matthew",
+    "media_type": "Text",
+    "index_reference": "40000000",
+    "language": "por",
+    "content": "<p>O Evangelho de Mateus</p><h2>Propósito</h2><p>Demonstrar que Jesus é o Messias e ajudar os cristãos a entender como viver em relação ao judaísmo</p><h2>Autor</h2><p>Mateus (também conhecido como Levi), um dos doze apóstolos de Jesus</p><h2>Data</h2><p>Provavelmente em algum momento entre 65 e 80 d.C.</p><h2>Cenário</h2><p>Escrito em um momento em que os primeiros cristãos estavam lutando para entender o relacionamento de suas novas crenças com a fé judaica</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001001",
+          "end_ref_usfm": "MAT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

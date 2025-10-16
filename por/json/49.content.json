@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124319,
+    "reference_id": 26491,
+    "title": "Ephesians",
+    "media_type": "Text",
+    "index_reference": "49000000",
+    "language": "por",
+    "content": "<p>A carta de Paulo aos efésios</p><h2>Propósito</h2><p>Para delinear o escopo da graça de Deus, encorajar a unidade entre os crentes judeus e gentios, e demonstrar como é nova vida em Cristo</p><h2>Autor</h2><p>Paulo</p><h2>Data</h2><p>Tradicionalmente, 60–62 d.C., mas possivelmente mais cedo, por volta de 53–56 d.C.</p><h2>Cenário</h2><p>Escrito enquanto Paulo estava na prisão, provavelmente em Roma ou Éfeso, após as Boas Novas terem se espalhado por toda a Ásia Menor e os crentes naquela região precisarem de instruções adicionais sobre as implicações de sua nova fé</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

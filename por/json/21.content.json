@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124291,
+    "reference_id": 26463,
+    "title": "Ecclesiastes",
+    "media_type": "Text",
+    "index_reference": "21000000",
+    "language": "por",
+    "content": "<p>O livro de Eclesiastes</p><h2>Propósito</h2><p>Refletir sobre o significado e prazer da vida</p><h2>Autor</h2><p>Salomão</p><h2>Data</h2><p>Por volta de 971–931 a.C.</p><h2>Cenário</h2><p>O reinado extremamente próspero — mas aparentemente insatisfatório — do rei Salomão</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "21001001",
+          "start_ref_usfm": "ECC 1:1",
+          "end_ref": "21001001",
+          "end_ref_usfm": "ECC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

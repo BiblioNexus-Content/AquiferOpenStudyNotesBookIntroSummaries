@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27363,
+    "reference_id": 26448,
+    "title": "Joshua",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "eng",
+    "content": "<p>The Book of Joshua</p><h2>Purpose</h2><p>To recount Israel’s conquest of the promised land</p><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that likely occurred in either 1406–1376 BC or 1230–1200 BC</p><h2>Setting</h2><p>Begins with the Israelites about to cross the Jordan and ends with their new land having been distributed among the tribes</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

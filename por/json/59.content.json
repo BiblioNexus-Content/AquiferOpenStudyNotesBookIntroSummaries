@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124329,
+    "reference_id": 26501,
+    "title": "James",
+    "media_type": "Text",
+    "index_reference": "59000000",
+    "language": "por",
+    "content": "<p>A carta de Tiago</p><h2>Propósito</h2><p>Compartilhar sabedoria prática e desafiar os leitores a manter sua fé — uma fé que é ativa e focada nos outros</p><h2>Autor</h2><p>Tiago, irmão de Jesus</p><h2>Data</h2><p>Por volta de 46 d.C.</p><h2>Cenário</h2><p>Escrito — presumivelmente de Jerusalém — aos crentes judeus que haviam se espalhado após a perseguição que começou com o martírio de Estêvão</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

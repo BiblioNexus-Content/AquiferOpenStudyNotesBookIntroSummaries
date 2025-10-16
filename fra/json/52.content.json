@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27709,
+    "reference_id": 26494,
+    "title": "1 Thessaloniciens",
+    "media_type": "Text",
+    "index_reference": "52000000",
+    "language": "fra",
+    "content": "<p>La première lettre de Paul aux Thessaloniciens</p><h2>Dessein</h2><p>Exprimer la reconnaissance de Paul pour la foi des croyants de Thessalonique et leur donner de plus amples instructions par rapport à la vie chrétienne et au retour du Seigneur</p><h2>Auteur</h2><p>Paul, avec Silas et Timothée</p><h2>Date</h2><p>Vers 50 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit alors que Paul se trouvait à Corinthe, après qu’il ait reçu un rapport positif de Timothée par rapport à l’église de Thessalonique</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

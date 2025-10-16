@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27713,
+    "reference_id": 26498,
+    "title": "Tite",
+    "media_type": "Text",
+    "index_reference": "56000000",
+    "language": "fra",
+    "content": "<p>La lettre de Paul à Tite</p><h2>Dessein</h2><p>Donner des instructions à Tite pour l’établissement de responsables d’église en Crète et pour promouvoir une bonne conduite parmi les croyants de l’île</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Probablement vers 63 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit vers la fin de la vie de Paul, alors que Tite était sur l’île de Crète, connue pour sa décadence culturelle</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "56001001",
+          "start_ref_usfm": "TIT 1:1",
+          "end_ref": "56001001",
+          "end_ref_usfm": "TIT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

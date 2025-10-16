@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124274,
+    "reference_id": 26446,
+    "title": "Numbers",
+    "media_type": "Text",
+    "index_reference": "04000000",
+    "language": "por",
+    "content": "<p>O livro de Números</p><h2>Propósito</h2><p>Para documentar a transição da geração infiel que deixou o Egito para a geração que entraria na Terra Prometida</p><h2>Autor</h2><p>Moisés, de acordo com a tradição</p><h2>Data</h2><p>Registra eventos que provavelmente ocorreram por volta de 1445–1406 a.C. ou 1269–1230 a.C.</p><h2>Cenário</h2><p>O livro começa com os israelitas no Sinai, traça sua jornada pelo deserto e termina com eles nas planícies de Moabe à porta da Terra Prometida</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04001001",
+          "start_ref_usfm": "NUM 1:1",
+          "end_ref": "04001001",
+          "end_ref_usfm": "NUM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

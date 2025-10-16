@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27668,
+    "reference_id": 26453,
+    "title": "1 Rois",
+    "media_type": "Text",
+    "index_reference": "11000000",
+    "language": "fra",
+    "content": "<p>Le premier livre des Rois</p><h2>Dessein</h2><p>Décrire la gloire du règne de Salomon, puis la division du Royaume et la dégradation d’Israël</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Rapporte des événements survenus vers 973–853 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Commence à l’apogée de la monarchie israélite (le règne de Salomon) et se termine sur un Royaume divisé et sur le point le plus bas de la monarchie israélite (le règne d’Achab)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001001",
+          "end_ref_usfm": "1KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

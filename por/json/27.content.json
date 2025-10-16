@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124297,
+    "reference_id": 26469,
+    "title": "Daniel",
+    "media_type": "Text",
+    "index_reference": "27000000",
+    "language": "por",
+    "content": "<p>O livro de Daniel</p><h2>Propósito</h2><p>Demonstrar a soberania de Deus sobre todos, incluindo poderes apáticos ou antagônicos em relação a ele</p><h2>Autor</h2><p>Provavelmente Daniel</p><h2>Data</h2><p>Por volta de 605–535 a.C.</p><h2>Cenário</h2><p>Babilônia, começando com a primeira onda de exilados de Judá e terminando na época do decreto de Ciro permitindo que os judeus voltassem para casa</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001001",
+          "start_ref_usfm": "DAN 1:1",
+          "end_ref": "27001001",
+          "end_ref_usfm": "DAN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

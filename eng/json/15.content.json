@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27372,
+    "reference_id": 26457,
+    "title": "Ezra",
+    "media_type": "Text",
+    "index_reference": "15000000",
+    "language": "eng",
+    "content": "<p>The Book of Ezra</p><h2>Purpose</h2><ol><li><p>To demonstrate God’s continued provision for his people </p></li><li><p>To show how to live when faced with foreign control, opposition, and pagan influence</p></li></ol><h2>Author</h2><p>Ezra, according to tradition</p><h2>Date</h2><p>Records events that occurred around 538–457 BC</p><h2>Setting</h2><p>Jerusalem, beginning with the initial return of Jews from exile in Babylon and ending with Ezra’s arrival there</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001001",
+          "end_ref_usfm": "EZR 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

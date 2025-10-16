@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27706,
+    "reference_id": 26491,
+    "title": "Ephésiens",
+    "media_type": "Text",
+    "index_reference": "49000000",
+    "language": "fra",
+    "content": "<p>La lettre de Paul aux Ephésiens</p><h2>Dessein</h2><p>Souligner l’étendue de la grâce de Dieu, encourager l’unité entre croyants d’origine juive et non-juive et manifester ce à quoi ressemble la nouvelle vie en Christ</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Traditionnellement, 60–62 ap.&nbsp;J.-C., mais peut-être plus tôt, vers 53–56 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit alors que Paul était en prison, probablement à Rome ou à Ephèse, alors que la Bonne Nouvelle avait déjà été diffusée dans toute l’Asie mineure et que les croyants de cette région avaient besoin de davantage d’instructions par rapport aux implications de leur nouvelle foi</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

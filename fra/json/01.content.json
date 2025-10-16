@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27658,
+    "reference_id": 26443,
+    "title": "Genèse",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "fra",
+    "content": "<p>Le livre de la Genèse</p><h2>Dessein</h2><p>Retracer l’établissement du plan de Dieu pour vaincre le péché, par son peuple élu, Israël</p><h2>Auteur</h2><p>Moïse, d’après la tradition</p><h2>Date</h2><p>Rapporte des événements primordiaux et d’autres de l’époque des patriarches (vers 2100–1700 av.&nbsp;J.-C.)</p><h2>Cadre</h2><p>Divers endroits situés au Moyen-Orient, avec une forte emphase sur les patriarches à Canaan et en Egypte</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

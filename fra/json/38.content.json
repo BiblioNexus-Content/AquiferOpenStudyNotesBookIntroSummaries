@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27695,
+    "reference_id": 26480,
+    "title": "Zacharie",
+    "media_type": "Text",
+    "index_reference": "38000000",
+    "language": "fra",
+    "content": "<p>Le livre de Zacharie</p><h2>Dessein</h2><p>Encourager un renouveau spirituel et annoncer à avenir grandiose pour le peuple de Dieu</p><h2>Auteur</h2><p>Zacharie</p><h2>Date</h2><p>Probablement entre 520 et 470 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Jérusalem, quelques décennies après le retour d’exil d’un reste de Juifs</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "38001001",
+          "start_ref_usfm": "ZEC 1:1",
+          "end_ref": "38001001",
+          "end_ref_usfm": "ZEC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

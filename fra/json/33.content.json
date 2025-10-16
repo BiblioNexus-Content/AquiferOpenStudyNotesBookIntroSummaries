@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27690,
+    "reference_id": 26475,
+    "title": "Michée",
+    "media_type": "Text",
+    "index_reference": "33000000",
+    "language": "fra",
+    "content": "<p>Le livre de Michée</p><h2>Dessein</h2><p>Proclamer le jugement de Dieu contre Samarie et Jérusalem, mais en offrant aussi un fort message d’espérance pour l’avenir d’Israël</p><h2>Auteur</h2><p>Michée</p><h2>Date</h2><p>Vers 735–686 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Le Royaume du Nord, d’Israël, peu avant sa destruction, et le Royaume du Sud, de Juda, pendant le règne de Jotham, Achaz et Ezéchias</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "33001001",
+          "start_ref_usfm": "MIC 1:1",
+          "end_ref": "33001001",
+          "end_ref_usfm": "MIC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

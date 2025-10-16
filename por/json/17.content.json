@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124287,
+    "reference_id": 26459,
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "17000000",
+    "language": "por",
+    "content": "<p>O livro de Ester</p><h2>Propósito</h2><p>Demonstrar o carinho providencial de Deus para seu povo e traçar a origem da Festa de Purim</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Registra eventos que ocorreram por volta de 483–473 a.C.</p><h2>Cenário</h2><p>A capital persa, Susã, durante o reinado de Xerxes, depois que vários judeus haviam voltado para a Judeia</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001001",
+          "end_ref_usfm": "EST 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124271,
+    "reference_id": 26443,
+    "title": "Genesis",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "por",
+    "content": "<p>O livro de Gênesis</p><h2>Propósito</h2><p>Para traçar o estabelecimento do plano de Deus para superar o pecado através de seu povo escolhido, Israel</p><h2>Autor</h2><p>Moisés, de acordo com a tradição</p><h2>Data</h2><p>Registra eventos primitivos e do período patriarcal (ca. 2100–1700 a.C.)</p><h2>Cenário</h2><p>Uma variedade de lugares no Oriente Médio, concentrando-se fortemente nos patriarcas durante seu tempo em Canaã e no Egito</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

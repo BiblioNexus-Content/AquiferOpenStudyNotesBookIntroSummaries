@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124317,
+    "reference_id": 26489,
+    "title": "2 Corinthians",
+    "media_type": "Text",
+    "index_reference": "47000000",
+    "language": "por",
+    "content": "<p>A segunda carta de Paulo aos coríntios</p><h2>Propósito</h2><p>Defender a autoridade apostólica de Paulo e abafar a influência dos falsos mestres</p><h2>Autor</h2><p>Paulo</p><h2>Data</h2><p>Por volta de 56 d.C.</p><h2>Cenário</h2><p>Escrito após Paulo receber um relatório positivo de Tito sobre o arrependimento da igreja de Coríntio, que havia seguido de uma carta anterior (agora perdida) que Paulo havia enviado a eles (veja <a href=\"https://ref.ly/2Cor7:5-2Cor7:9\">2Co 7.5–9</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

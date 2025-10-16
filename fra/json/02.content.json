@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27659,
+    "reference_id": 26444,
+    "title": "Exode",
+    "media_type": "Text",
+    "index_reference": "02000000",
+    "language": "fra",
+    "content": "<p>Le livre de l’Exode</p><h2>Dessein</h2><p>Raconter la délivrance d’Egypte des Hébreux et l’établissement de leur alliance et de leurs pratiques culturelles</p><h2>Auteur</h2><p>Moïse, d’après la tradition</p><h2>Date</h2><p>Rapporte des événements survenus entre 1526 et 1446 av.&nbsp;J.-C. ou entre 1350 et 1270 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>S’ouvre sur les Hébreux esclaves en Egypte et se termine avec le peuple de l’alliance de Dieu en route vers la terre promise</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001001",
+          "end_ref_usfm": "EXO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

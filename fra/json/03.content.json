@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27660,
+    "reference_id": 26445,
+    "title": "Lévitique",
+    "media_type": "Text",
+    "index_reference": "03000000",
+    "language": "fra",
+    "content": "<p>Le livre du Lévitique</p><h2>Dessein</h2><p>Manifester la sainteté de Dieu et montrer à son peuple comment vivre une vie sainte</p><h2>Auteur</h2><p>Moïse, d’après la tradition</p><h2>Date</h2><p>Rapporte des événements survenus vers 1446 av.&nbsp;J.-C. Ou 1270 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Les Israélites, qui avaient été établis en tant que peuple de l’alliance de Dieu, campaient au pied du Mont Sinaï</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03001001",
+          "end_ref_usfm": "LEV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124303,
+    "reference_id": 26475,
+    "title": "Micah",
+    "media_type": "Text",
+    "index_reference": "33000000",
+    "language": "por",
+    "content": "<p>O livro de Miqueias</p><h2>Propósito</h2><p>Proclamar o julgamento contra Samaria e Jerusalém, mas também oferecer uma forte mensagem de esperança para o futuro de Israel</p><h2>Autor</h2><p>Miqueias</p><h2>Data</h2><p>Por volta de 735–686 a.C.</p><h2>Cenário</h2><p>O reino do norte de Israel pouco antes de sua destruição e o reino do sul de Judá durante os reinados de Jotão, Acaz e Ezequias</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "33001001",
+          "start_ref_usfm": "MIC 1:1",
+          "end_ref": "33001001",
+          "end_ref_usfm": "MIC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

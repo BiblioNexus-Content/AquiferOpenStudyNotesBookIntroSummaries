@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124299,
+    "reference_id": 26471,
+    "title": "Joel",
+    "media_type": "Text",
+    "index_reference": "29000000",
+    "language": "por",
+    "content": "<p>O livro de Joel</p><h2>Propósito</h2><p>Exibir a soberania e julgamento de Deus, estimular os leitores ao arrependimento e prometer restauração</p><h2>Autor</h2><p>Joel</p><h2>Data</h2><p>Desconhecido</p><h2>Cenário</h2><p>A terra de Judá, durante uma praga catastrófica de gafanhotos (interpretada de várias maneiras como literal ou figurativo)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "29001001",
+          "start_ref_usfm": "JOL 1:1",
+          "end_ref": "29001001",
+          "end_ref_usfm": "JOL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

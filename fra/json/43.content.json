@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27700,
+    "reference_id": 26485,
+    "title": "Jean",
+    "media_type": "Text",
+    "index_reference": "43000000",
+    "language": "fra",
+    "content": "<p>L’Evangile selon Jean</p><h2>Dessein</h2><p>Susciter la foi en Jésus en tant que Messie et Fils de Dieu et relier cette foi à la vie éternelle</p><h2>Auteur</h2><p>Probablement «&nbsp;le disciple que Jésus aimait&nbsp;», traditionnellement identifié à Jean, fils de Zébédée</p><h2>Date</h2><p>Vers 90 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit vers la fin de la vie de Jean, à une époque où les premiers disciples de Jésus faisaient face à l’hostilité des synagogues locales</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

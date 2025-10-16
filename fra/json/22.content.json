@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27679,
+    "reference_id": 26464,
+    "title": "Cantique des Cantiques",
+    "media_type": "Text",
+    "index_reference": "22000000",
+    "language": "fra",
+    "content": "<p>Le livre du Cantique des Cantiques</p><h2>Dessein</h2><p>Célébrer les dons de Dieu de l’amour et de la sexualité</p><h2>Auteur</h2><p>Salomon&nbsp;; d’autres contributeurs possibles</p><h2>Date</h2><p>Inconnu&nbsp;; après 971 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Ce livre est associé au règne de Salomon, mais son manque de trame claire remet en cause tout cadre ou identification clairs</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "22001001",
+          "start_ref_usfm": "SNG 1:1",
+          "end_ref": "22001001",
+          "end_ref_usfm": "SNG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

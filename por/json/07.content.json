@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124277,
+    "reference_id": 26449,
+    "title": "Judges",
+    "media_type": "Text",
+    "index_reference": "07000000",
+    "language": "por",
+    "content": "<p>O livro de Juízes</p><h2>Propósito</h2><p>Descrever o período dos juízes e argumentar em favor de uma monarquia israelita</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Registra eventos que ocorreram em 1376–1050 a.C. ou 1200–1050 a.C.</p><h2>Cenário</h2><p>Israel estava falhando em conquistar totalmente a Terra Prometida e enfrentou repetida opressão dos inimigos</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001001",
+          "start_ref_usfm": "JDG 1:1",
+          "end_ref": "07001001",
+          "end_ref_usfm": "JDG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

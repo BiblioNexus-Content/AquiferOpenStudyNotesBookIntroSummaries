@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124281,
+    "reference_id": 26453,
+    "title": "1 Kings",
+    "media_type": "Text",
+    "index_reference": "11000000",
+    "language": "por",
+    "content": "<p>O primeiro livro de Reis</p><h2>Propósito</h2><p>Para delinear a glória do reinado de Salomão, a divisão do reino e a degradação de Israel</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Registra eventos que ocorreram por volta de 973–853 a.C.</p><h2>Cenário</h2><p>Começa no ponto alto da monarquia israelita (o reinado de Salomão) e termina com um reino dividido e um ponto baixo na monarquia israelita (o reinado de Acabe)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001001",
+          "end_ref_usfm": "1KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

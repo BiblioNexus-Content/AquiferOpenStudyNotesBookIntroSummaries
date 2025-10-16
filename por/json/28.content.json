@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124298,
+    "reference_id": 26470,
+    "title": "Hosea",
+    "media_type": "Text",
+    "index_reference": "28000000",
+    "language": "por",
+    "content": "<p>O livro de Oseias</p><h2>Propósito</h2><p>Retratar a infidelidade e julgamento subsequente de Israel, e mostrar o desejo de Deus de curar e restaurar seu povo</p><h2>Autor</h2><p>Oseias</p><h2>Data</h2><p>Por volta de 760–722 a.C.</p><h2>Cenário</h2><p>O reino do norte de Israel, nos dias que antecederam sua destruição nas mãos da Assíria</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

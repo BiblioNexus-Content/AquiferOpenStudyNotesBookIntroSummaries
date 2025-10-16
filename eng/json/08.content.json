@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27365,
+    "reference_id": 26450,
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "08000000",
+    "language": "eng",
+    "content": "<p>The Book of Ruth</p><h2>Purpose</h2><p>To tell the inspiring story of Ruth and to trace the background of King David</p><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 1100 BC</p><h2>Setting</h2><p>The period of the judges, during and immediately after a famine that had struck Bethlehem</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

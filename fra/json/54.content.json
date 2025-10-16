@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27711,
+    "reference_id": 26496,
+    "title": "1 Timothée",
+    "media_type": "Text",
+    "index_reference": "54000000",
+    "language": "fra",
+    "content": "<p>La première lettre de Paul à Timothée</p><h2>Dessein</h2><p>Orienter Timothée afin de l’aider à relever le défi des faux enseignements et instruire l’église sur comment bien se conduire</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Probablement vers 63 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit vers la fin de la vie de Paul, après qu’il ait envoyé Timothée à Ephèse pour combattre les faux enseignants au sein de cette église</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "54001001",
+          "start_ref_usfm": "1TI 1:1",
+          "end_ref": "54001001",
+          "end_ref_usfm": "1TI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

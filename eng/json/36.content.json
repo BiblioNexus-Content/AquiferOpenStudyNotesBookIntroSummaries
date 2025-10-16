@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27393,
+    "reference_id": 26478,
+    "title": "Zephaniah",
+    "media_type": "Text",
+    "index_reference": "36000000",
+    "language": "eng",
+    "content": "<p>The Book of Zephaniah</p><h2>Purpose</h2><ol><li><p>To warn of the coming “day of the Lord” (a time in which God actively intervenes in history, primarily for judgment)</p></li><li><p>To urge repentance</p></li></ol><h2>Author</h2><p>Zephaniah</p><h2>Date</h2><p>Likely between 635 and 622 BC</p><h2>Setting</h2><p>Near the beginning of King Josiah’s reign in Judah, before his religious reforms</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "36001001",
+          "start_ref_usfm": "ZEP 1:1",
+          "end_ref": "36001001",
+          "end_ref_usfm": "ZEP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

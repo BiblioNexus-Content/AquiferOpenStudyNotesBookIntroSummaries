@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27391,
+    "reference_id": 26476,
+    "title": "Nahum",
+    "media_type": "Text",
+    "index_reference": "34000000",
+    "language": "eng",
+    "content": "<p>The Book of Nahum</p><h2>Purpose</h2><p>To announce God’s coming judgment on Nineveh, the capital city of the Assyrian empire, thus offering hope to the people of Judah</p><h2>Author</h2><p>Nahum</p><h2>Date</h2><p>Sometime between 663 and 612 BC</p><h2>Setting</h2><p>The Assyrian Empire had conquered the northern kingdom of Israel, and now the southern kingdom of Judah was in danger of facing the same fate</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
