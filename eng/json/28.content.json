@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27385,
+    "reference_id": 26470,
+    "title": "Hosea",
+    "media_type": "Text",
+    "index_reference": "28000000",
+    "language": "eng",
+    "content": "<p>The Book of Hosea</p><h2>Purpose</h2><ol><li><p>To depict Israel’s unfaithfulness and resulting judgment</p></li><li><p>To show God’s desire to heal and restore his people</p></li></ol><h2>Author</h2><p>Hosea</p><h2>Date</h2><p>Around 760–722 BC</p><h2>Setting</h2><p>The northern kingdom of Israel, in the days leading up to its destruction at the hands of Assyria</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

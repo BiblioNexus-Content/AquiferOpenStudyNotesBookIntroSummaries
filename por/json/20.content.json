@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124290,
+    "reference_id": 26462,
+    "title": "Proverbs",
+    "media_type": "Text",
+    "index_reference": "20000000",
+    "language": "por",
+    "content": "<p>O livro de Provérbios</p><h2>Propósito</h2><p>Oferecer sabedoria prática para tomar decisões e ordenar a vida</p><h2>Autor</h2><p>Vários; muitos são atribuídos a Salomão</p><h2>Data</h2><p>Escrito e compilado ao longo de vários séculos, começando durante o reinado de Salomão (971–931&nbsp;a.C.) e continuando até pelo menos o reinado de Ezequias (728–686 a.C.)</p><h2>Cenário</h2><p>Parte é dirigida a um jovem; outras partes sugerem cenários diversos</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001001",
+          "end_ref_usfm": "PRO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

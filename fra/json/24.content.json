@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27681,
+    "reference_id": 26466,
+    "title": "Jérémie",
+    "media_type": "Text",
+    "index_reference": "24000000",
+    "language": "fra",
+    "content": "<p>Le livre de Jérémie</p><h2>Dessein</h2><p>Avertir Juda de la destruction à venir, souligner les raisons du jugement de Dieu et encourager une consécration renouvelée à l’Eternel</p><h2>Auteur</h2><p>Jérémie</p><h2>Date</h2><p>Vers 627–580 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Les dernières années du Royaume de Juda, l’invasion et la destruction de Jérusalem par les Babyloniens et les premières années d’exil de Juda</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24001001",
+          "start_ref_usfm": "JER 1:1",
+          "end_ref": "24001001",
+          "end_ref_usfm": "JER 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

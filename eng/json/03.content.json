@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27360,
+    "reference_id": 26445,
+    "title": "Leviticus",
+    "media_type": "Text",
+    "index_reference": "03000000",
+    "language": "eng",
+    "content": "<p>The Book of Leviticus</p><h2>Purpose</h2><ol><li><p>To demonstrate God’s holiness </p></li><li><p>To guide God&apos;s people to lead holy lives</p></li></ol><h2>Author</h2><p>Moses, according to tradition</p><h2>Date</h2><p>Records events that likely occurred around either 1446 BC or 1270 BC</p><h2>Setting</h2><p>The Israelites had been established as God’s covenant people (a people who had a special relationship with God) and were camped at the foot of Mount Sinai</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03001001",
+          "end_ref_usfm": "LEV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27670,
+    "reference_id": 26455,
+    "title": "1 Chroniques",
+    "media_type": "Text",
+    "index_reference": "13000000",
+    "language": "fra",
+    "content": "<p>Le premier livre des Chroniques</p><h2>Dessein</h2><p>Donner de l’espoir – en se référant en grande partie à la promesse davidique – aux Juifs retournés dans leur pays, mais qui étaient asservis</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Probablement écrit vers 400 av.&nbsp;J.-C.&nbsp;; rapporte des événements survenus vers 1011–971 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Après l’exil, les Juifs étaient retournés en Judée, mais ils vivaient toujours sous une domination étrangère (persane)&nbsp;; le récit se concentre surtout sur le règne de David</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27392,
+    "reference_id": 26477,
+    "title": "Habakkuk",
+    "media_type": "Text",
+    "index_reference": "35000000",
+    "language": "eng",
+    "content": "<p>The Book of Habakkuk</p><h2>Purpose</h2><p>To address some difficult questions about God’s purposes and the presence of evil in the world</p><h2>Author</h2><p>Habakkuk</p><h2>Date</h2><p>Likely between 645 and 605 BC</p><h2>Setting</h2><p>The final years of the independent kingdom of Judah, when Assyrian power was weakening but Babylonian power was increasing</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001001",
+          "start_ref_usfm": "HAB 1:1",
+          "end_ref": "35001001",
+          "end_ref_usfm": "HAB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

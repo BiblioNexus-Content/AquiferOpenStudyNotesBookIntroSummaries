@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27718,
+    "reference_id": 26503,
+    "title": "2 Pierre",
+    "media_type": "Text",
+    "index_reference": "61000000",
+    "language": "fra",
+    "content": "<p>La deuxième lettre de Pierre</p><h2>Dessein</h2><p>Dénoncer les faux enseignants et encourager à continuer à grandir dans la foi</p><h2>Auteur</h2><p>Pierre</p><h2>Date</h2><p>Au début des années 60 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Adressé aux mêmes groupes de croyants que 1&nbsp;Pierre, dont les communautés étaient infiltrées par de faux enseignants</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "61001001",
+          "start_ref_usfm": "2PE 1:1",
+          "end_ref": "61001001",
+          "end_ref_usfm": "2PE 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

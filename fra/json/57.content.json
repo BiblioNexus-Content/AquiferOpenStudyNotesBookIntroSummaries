@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27714,
+    "reference_id": 26499,
+    "title": "Philémon",
+    "media_type": "Text",
+    "index_reference": "57000000",
+    "language": "fra",
+    "content": "<p>La lettre de Paul à Philémon</p><h2>Dessein</h2><p>Encourager Philémon à accueillir son esclave Onésime, qui était devenu croyant</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Traditionnellement, 60–62 ap.&nbsp;J.-C., 53–56 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit alors que Paul était en prison, après sa rencontre avec Onésime, qui était apparemment un esclave fugitif de Philémon, un responsable chrétien de Colosses</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

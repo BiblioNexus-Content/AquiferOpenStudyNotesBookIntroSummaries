@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27374,
+    "reference_id": 26459,
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "17000000",
+    "language": "eng",
+    "content": "<p>The Book of Esther</p><h2>Purpose</h2><ol><li><p>To demonstrate God’s providential care of his people </p></li><li><p>To trace the origin of the Festival of Purim</p></li></ol><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 483–473 BC</p><h2>Setting</h2><p>The Persian capital, Susa, during the reign of Xerxes, after many Jews had returned to Judea</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001001",
+          "end_ref_usfm": "EST 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27419,
+    "reference_id": 26504,
+    "title": "1 John",
+    "media_type": "Text",
+    "index_reference": "62000000",
+    "language": "eng",
+    "content": "<p>The First Letter of John</p><h2>Purpose</h2><ol><li><p>To affirm correct belief about Jesus Christ </p></li><li><p>To strongly encourage believers to love one another </p></li><li><p>To provide assurance about eternal life</p></li></ol><h2>Author</h2><p>Likely the apostle John</p><h2>Date</h2><p>Around AD 85–90</p><h2>Setting</h2><p>Written to a community that had recently experienced a schism (a split or division) due to the emergence of a heretical faction that promoted false teachings about Jesus</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62001001",
+          "start_ref_usfm": "1JN 1:1",
+          "end_ref": "62001001",
+          "end_ref_usfm": "1JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

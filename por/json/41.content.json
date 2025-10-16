@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124311,
+    "reference_id": 26483,
+    "title": "Mark",
+    "media_type": "Text",
+    "index_reference": "41000000",
+    "language": "por",
+    "content": "<p>O Evangelho de Marcos</p><h2>Propósito</h2><p>Retransmitir as Boas Novas sobre Jesus, que é o Messias e Filho de Deus</p><h2>Autor</h2><p>João Marcos, que de acordo com a tradição antiga colocou por escrito as lembranças do apóstolo Pedro</p><h2>Data</h2><p>Provavelmente escrito em algum momento durante o final dos anos 60 d.C.</p><h2>Cenário</h2><p>Escrito em um momento em que os cristãos no mundo romano estavam enfrentando perseguição — exigindo que as tradições do evangelho começassem a ser escritas — e a destruição de Jerusalém era iminente</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001001",
+          "end_ref_usfm": "MRK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

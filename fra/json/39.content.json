@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27696,
+    "reference_id": 26481,
+    "title": "Malachie",
+    "media_type": "Text",
+    "index_reference": "39000000",
+    "language": "fra",
+    "content": "<p>Le livre de Malachie</p><h2>Dessein</h2><p>Réorienter le peuple vers une bonne conduite en matière relationnelle et cultuelle</p><h2>Auteur</h2><p>Malachie</p><h2>Date</h2><p>Probablement au cours du 5°&nbsp;Siècle av.&nbsp;J.-C.</p><h2>Cadre</h2><p>La Judée après l’exil, pendant la domination perse, après la reconstruction du Temple</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "39001001",
+          "start_ref_usfm": "MAL 1:1",
+          "end_ref": "39001001",
+          "end_ref_usfm": "MAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27361,
+    "reference_id": 26446,
+    "title": "Numbers",
+    "media_type": "Text",
+    "index_reference": "04000000",
+    "language": "eng",
+    "content": "<p>The Book of Numbers</p><h2>Purpose</h2><p>To document the transition from the unfaithful generation who left Egypt to the generation who would enter the promised land</p><h2>Author</h2><p>Moses, according to tradition</p><h2>Date</h2><p>Records events that likely occurred around either 1445–1406 BC or 1269–1230 BC</p><h2>Setting</h2><p>The book begins with the Israelites at Sinai, follows their journey through the wilderness, and ends with them in the plains of Moab at the edge of the promised land</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04001001",
+          "start_ref_usfm": "NUM 1:1",
+          "end_ref": "04001001",
+          "end_ref_usfm": "NUM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

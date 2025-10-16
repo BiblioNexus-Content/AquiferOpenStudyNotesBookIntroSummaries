@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27673,
+    "reference_id": 26458,
+    "title": "Néhémie",
+    "media_type": "Text",
+    "index_reference": "16000000",
+    "language": "fra",
+    "content": "<p>Le livre de Néhémie</p><h2>Dessein</h2><p>Raconter la reconstruction de la muraille de Jérusalem et manifester la fidélité de Dieu à ceux qui lui sont dévoués</p><h2>Auteur</h2><p>Esdras, d’après la tradition</p><h2>Date</h2><p>Rapporte des événements survenus vers 445–430 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Jérusalem, environ 15 ans après l’arrivée d’Esdras</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27388,
+    "reference_id": 26473,
+    "title": "Obadiah",
+    "media_type": "Text",
+    "index_reference": "31000000",
+    "language": "eng",
+    "content": "<p>The Book of Obadiah</p><h2>Purpose</h2><p>To announce God’s judgment on Edom, who had rejoiced at and participated in Judah’s destruction</p><h2>Author</h2><p>Obadiah</p><h2>Date</h2><p>Around 586 BC</p><h2>Setting</h2><p>Probably very soon after the destruction of Jerusalem by the Babylonians</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "31001001",
+          "start_ref_usfm": "OBA 1:1",
+          "end_ref": "31001001",
+          "end_ref_usfm": "OBA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

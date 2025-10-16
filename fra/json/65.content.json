@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27722,
+    "reference_id": 26507,
+    "title": "Jude",
+    "media_type": "Text",
+    "index_reference": "65000000",
+    "language": "fra",
+    "content": "<p>La lettre de Jude</p><h2>Dessein</h2><p>Exhorter les lecteurs à défendre leur foi face aux faux enseignants</p><h2>Auteur</h2><p>Jude, le frère de Jésus</p><h2>Date</h2><p>Inconnue&nbsp;; peut-être vers le même moment que 2 Pierre (début des années 60 ap.&nbsp;J.-C.)</p><h2>Cadre</h2><p>Adressé à un groupe d’églises qui avait été infiltré par de faux enseignants, lesquels encourageaient un mode de vie immorale</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

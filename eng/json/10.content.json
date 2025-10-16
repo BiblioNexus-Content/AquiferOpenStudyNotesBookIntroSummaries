@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27367,
+    "reference_id": 26452,
+    "title": "2 Samuel",
+    "media_type": "Text",
+    "index_reference": "10000000",
+    "language": "eng",
+    "content": "<p>The Second Book of Samuel</p><h2>Purpose</h2><ol><li><p>To describe the reign of David </p></li><li><p>To demonstrate God’s commitment to David’s line</p></li></ol><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 1011–971 BC</p><h2>Setting</h2><p>Following King Saul’s death, David sought to establish his throne over all Israel and to expand Israelite territory</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001001",
+          "end_ref_usfm": "2SA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27680,
+    "reference_id": 26465,
+    "title": "Esaïe",
+    "media_type": "Text",
+    "index_reference": "23000000",
+    "language": "fra",
+    "content": "<p>Le livre d’Esaïe</p><h2>Dessein</h2><p>Avertir Juda du jugement imminent et offrir de l’espérance par rapport à un reste du peuple de Dieu</p><h2>Auteur</h2><p>Esaïe</p><h2>Date</h2><p>Vers 740–685 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Le Royaume du Sud, de Juda, vers l’époque de la conquête du Royaume du Nord, d’Israël, par l’Assyrie</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

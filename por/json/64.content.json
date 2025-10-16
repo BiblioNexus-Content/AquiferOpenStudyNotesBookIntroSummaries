@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124334,
+    "reference_id": 26506,
+    "title": "3 John",
+    "media_type": "Text",
+    "index_reference": "64000000",
+    "language": "por",
+    "content": "<p>A terceira carta de João</p><h2>Propósito</h2><p>Elogiar Gaio por sua hospitalidade aos emissários do apóstolo e reprovar Diótrefes</p><h2>Autor</h2><p>Provavelmente o apóstolo João</p><h2>Data</h2><p>Por volta de 85–90 d.C.</p><h2>Cenário</h2><p>Escrito a um indivíduo chamado Gaio, em resposta à sua hospitalidade e à falta dela por um homem chamado Diótrefes</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "64001001",
+          "start_ref_usfm": "3JN 1:1",
+          "end_ref": "64001001",
+          "end_ref_usfm": "3JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

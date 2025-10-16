@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27692,
+    "reference_id": 26477,
+    "title": "Habacuc",
+    "media_type": "Text",
+    "index_reference": "35000000",
+    "language": "fra",
+    "content": "<p>Le livre d’Habacuc</p><h2>Dessein</h2><p>Répondre à des questions difficiles par rapport aux desseins de Dieu et à la présence du mal dans le monde</p><h2>Auteur</h2><p>Habacuc</p><h2>Date</h2><p>Probablement entre 645 et 605 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Les dernières années du Royaume indépendant de Juda, alors que la puissance assyrienne faiblissait, mais que la puissance babylonienne augmentait</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001001",
+          "start_ref_usfm": "HAB 1:1",
+          "end_ref": "35001001",
+          "end_ref_usfm": "HAB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

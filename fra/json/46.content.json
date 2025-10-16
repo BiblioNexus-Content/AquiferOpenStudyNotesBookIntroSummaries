@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27703,
+    "reference_id": 26488,
+    "title": "1 Corinthiens",
+    "media_type": "Text",
+    "index_reference": "46000000",
+    "language": "fra",
+    "content": "<p>La première lettre de Paul aux Corinthiens</p><h2>Dessein</h2><p>Clarifier certaines questions soulevées par l’église de Corinthe et résoudre une série de problèmes spécifiques survenus au sein de cette église</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>53–56ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit depuis Ephèse, pendant le troisième voyage missionnaire de Paul, en réponse aux rapports et questions qu’il avait reçus de l’église de Corinthe (voir <a href=\"https://ref.ly/1Cor1:11\">1&nbsp;Corinthiens&nbsp;1:11</a>; <a href=\"https://ref.ly/1Cor5:1\">5:1</a>; <a href=\"https://ref.ly/1Cor7:1\">7:1</a>; <a href=\"https://ref.ly/1Cor8:1\">8:1</a>; <a href=\"https://ref.ly/1Cor12:1\">12:1</a>; <a href=\"https://ref.ly/1Cor16:1\">16:1</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46001001",
+          "start_ref_usfm": "1CO 1:1",
+          "end_ref": "46001001",
+          "end_ref_usfm": "1CO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

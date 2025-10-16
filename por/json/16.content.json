@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124286,
+    "reference_id": 26458,
+    "title": "Nehemiah",
+    "media_type": "Text",
+    "index_reference": "16000000",
+    "language": "por",
+    "content": "<p>O livro de Neemias</p><h2>Propósito</h2><p>Relatar a reconstrução dos muros de Jerusalém e demonstrar a fidelidade de Deus aos que se dedicam a ele</p><h2>Autor</h2><p>Esdras, de acordo com a tradição</p><h2>Data</h2><p>Registra eventos que ocorreram por volta de 445–430 a.C.</p><h2>Cenário</h2><p>Jerusalém, aproximadamente quinze anos após Esdras haver chegado</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

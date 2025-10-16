@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124309,
+    "reference_id": 26481,
+    "title": "Malachi",
+    "media_type": "Text",
+    "index_reference": "39000000",
+    "language": "por",
+    "content": "<p>O livro de Malaquias</p><h2>Propósito</h2><p>Reorientar as pessoas para a conduta adequada nos relacionamentos e adoração</p><h2>Autor</h2><p>Malaquias</p><h2>Data</h2><p>Provavelmente em algum momento nos anos 400 a.C.</p><h2>Cenário</h2><p>Judeia pós-exílica, durante o controle persa, após o Templo ter sido reconstruído</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "39001001",
+          "start_ref_usfm": "MAL 1:1",
+          "end_ref": "39001001",
+          "end_ref_usfm": "MAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

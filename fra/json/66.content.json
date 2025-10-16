@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27723,
+    "reference_id": 26508,
+    "title": "Apocalypse",
+    "media_type": "Text",
+    "index_reference": "66000000",
+    "language": "fra",
+    "content": "<p>Le livre de l’Apocalypse</p><h2>Dessein</h2><p>Encourager les lecteurs à demeurer fidèles au milieu de la persécution, en leur montrant vers la victoire de Dieu sur le mal et leur espérance future</p><h2>Auteur</h2><p>Jean (probablement l’apôtre)</p><h2>Date</h2><p>Probablement au cours des années 90 ap.&nbsp;J.-C. ; peut-être aussi au cours des années 60 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Adressé à un groupe d’églises en Asie, qui étaient persécutées par l’Empire romain</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "66001001",
+          "start_ref_usfm": "REV 1:1",
+          "end_ref": "66001001",
+          "end_ref_usfm": "REV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

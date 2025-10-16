@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27712,
+    "reference_id": 26497,
+    "title": "2 Timothée",
+    "media_type": "Text",
+    "index_reference": "55000000",
+    "language": "fra",
+    "content": "<p>La deuxième lettre de Paul à Timothée</p><h2>Dessein</h2><p>Charger Timothée de poursuivre le travail commencé par Paul et l’encourager à supporter la souffrance</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Probablement vers 64 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Probablement écrit pendant le deuxième emprisonnement de Paul à Rome, peu avant sa mort, dont il savait qu’elle était imminente</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "55001001",
+          "start_ref_usfm": "2TI 1:1",
+          "end_ref": "55001001",
+          "end_ref_usfm": "2TI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

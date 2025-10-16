@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27389,
+    "reference_id": 26474,
+    "title": "Jonah",
+    "media_type": "Text",
+    "index_reference": "32000000",
+    "language": "eng",
+    "content": "<p>The Book of Jonah</p><h2>Purpose</h2><p>To recount a story of the far-reaching scope of God’s sovereignty (power and authority to rule) and salvation</p><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Around 755 BC</p><h2>Setting</h2><p>A time when Assyria’s influence in Israel had temporarily decreased, likely during the reign of Jeroboam II</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "32001001",
+          "start_ref_usfm": "JON 1:1",
+          "end_ref": "32001001",
+          "end_ref_usfm": "JON 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

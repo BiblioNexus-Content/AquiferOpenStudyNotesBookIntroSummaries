@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27701,
+    "reference_id": 26486,
+    "title": "Actes",
+    "media_type": "Text",
+    "index_reference": "44000000",
+    "language": "fra",
+    "content": "<p>Le livre des Actes</p><h2>Dessein</h2><p>Décrire la diffusion de la Bonne Nouvelle de Jésus-Christ et la naissance de l’Eglise, depuis Jérusalem et à travers tout le monde romain</p><h2>Auteur</h2><p>Luc, un médecin et compagnon occasionnel de l’apôtre Paul</p><h2>Date</h2><p>Probablement entre le début des années 60 ap.&nbsp;J.-C. et le milieu des années 80 ap.&nbsp;J.-C. Les événements rapportés dans les Actes prennent fin vers le début des années 60&nbsp;; mais, selon une opinion courante, le livre des Actes a été écrit plus tard, ce qui revient à supposer que l’Evangile de Luc s’est inspiré de l’Evangile de Marc – probablement écrit à la fin des années 60 – comme source</p><h2>Cadre</h2><p>Écrit à une époque où la Bonne Nouvelle de Jésus se répandait à travers le monde méditerranéen et où il était devenu évident que le salut de Dieu s’étendait à la fois aux Juifs et aux non-Juifs</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

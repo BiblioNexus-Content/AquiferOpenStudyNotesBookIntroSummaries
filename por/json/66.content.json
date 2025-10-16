@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124336,
+    "reference_id": 26508,
+    "title": "Revelation",
+    "media_type": "Text",
+    "index_reference": "66000000",
+    "language": "por",
+    "content": "<p>O livro de Apocalipse</p><h2>Propósito</h2><p>Desafiar os leitores a permanecer fiéis em meio a perseguição, apontando-os para a vitória de Deus sobre o mal e para sua esperança futura</p><h2>Autor</h2><p>João (provavelmente o apóstolo)</p><h2>Data</h2><p>Provavelmente nos anos 90 d.C., mas possivelmente nos anos 60 d.C.</p><h2>Cenário</h2><p>Escrito a um grupo de igrejas na Ásia que estavam experimentando perseguição nas mãos do Império Romano</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "66001001",
+          "start_ref_usfm": "REV 1:1",
+          "end_ref": "66001001",
+          "end_ref_usfm": "REV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

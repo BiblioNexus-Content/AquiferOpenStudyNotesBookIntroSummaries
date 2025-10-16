@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124278,
+    "reference_id": 26450,
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "08000000",
+    "language": "por",
+    "content": "<p>O livro de Rute</p><h2>Propósito</h2><p>Contar a história inspiradora de Rute e traçar o pano de fundo do rei Davi</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Registra eventos que ocorreram por volta de 1100 a.C.</p><h2>Cenário</h2><p>O período dos juízes, durante e imediatamente após uma fome que havia atingido Belém</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

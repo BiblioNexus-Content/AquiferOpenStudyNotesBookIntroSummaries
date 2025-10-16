@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27707,
+    "reference_id": 26492,
+    "title": "Philippiens",
+    "media_type": "Text",
+    "index_reference": "50000000",
+    "language": "fra",
+    "content": "<p>La lettre de Paul aux Philippiens</p><h2>Dessein</h2><p>Remercier les Philippiens pour leur don récent et les encourager à la joie et au contentement au cœur de leur souffrance</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Traditionnellement, 60–62 ap.&nbsp;J.-C., mais peut-être plus tôt, vers 53–56 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit alors que Paul était en prison et que l’église de Philippes, qui venait de lui envoyer un don financier, était également persécutée</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

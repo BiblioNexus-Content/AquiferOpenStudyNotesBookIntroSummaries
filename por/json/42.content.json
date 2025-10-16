@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124312,
+    "reference_id": 26484,
+    "title": "Luke",
+    "media_type": "Text",
+    "index_reference": "42000000",
+    "language": "por",
+    "content": "<p>O Evangelho de Lucas</p><h2>Propósito</h2><p>Escrever um relato histórico confiável da vida de Jesus que confirmaria a verdade da mensagem cristã</p><h2>Autor</h2><p>Lucas, um médico e companheiro ocasional do apóstolo Paulo</p><h2>Data</h2><p>Ou por volta de 59–63 d.C., durante a prisão de Paulo em Roma, ou entre 70–90 d.C., usando o Evangelho de Marcos como uma fonte</p><h2>Cenário</h2><p>Escrito durante um tempo de crescente tensão entre judeus e cristãos, em que Lucas tentou demonstrar que aqueles — tanto judeus quanto gentios — que acreditavam que Jesus era o Messias faziam parte do novo povo de Deus</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001001",
+          "end_ref_usfm": "LUK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

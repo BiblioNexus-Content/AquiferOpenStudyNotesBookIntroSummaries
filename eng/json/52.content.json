@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27409,
+    "reference_id": 26494,
+    "title": "1 Thessalonians",
+    "media_type": "Text",
+    "index_reference": "52000000",
+    "language": "eng",
+    "content": "<p>Paul’s First Letter to the Thessalonians</p><h2>Purpose</h2><ol><li><p>To express thanksgiving for the faith of the Thessalonian believers </p></li><li><p>To give the Thessalonians further instruction about Christian behavior and the Lord’s return</p></li></ol><h2>Author</h2><p>Paul, with Silas and Timothy</p><h2>Date</h2><p>Around AD 50</p><h2>Setting</h2><p>Written while Paul was in Corinth, after he had received a positive report from Timothy about the church in Thessalonica</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

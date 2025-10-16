@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27693,
+    "reference_id": 26478,
+    "title": "Sophonie",
+    "media_type": "Text",
+    "index_reference": "36000000",
+    "language": "fra",
+    "content": "<p>Le livre de Sophonie</p><h2>Dessein</h2><p>Avertir de la venue du «&nbsp;jour du Seigneur&nbsp;» et pousser à la repentance</p><h2>Auteur</h2><p>Sophonie</p><h2>Date</h2><p>Probablement entre 635 et 622 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Vers le début du règne de Josias sur Juda, avant sa réforme religieuse</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "36001001",
+          "start_ref_usfm": "ZEP 1:1",
+          "end_ref": "36001001",
+          "end_ref_usfm": "ZEP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124304,
+    "reference_id": 26476,
+    "title": "Nahum",
+    "media_type": "Text",
+    "index_reference": "34000000",
+    "language": "por",
+    "content": "<p>O livro de Naum</p><h2>Propósito</h2><p>Anunciar o julgamento de Deus sobre Nínive, a capital Assíria, oferecendo assim esperança ao povo de Judá</p><h2>Autor</h2><p>Naum</p><h2>Data</h2><p>Em algum momento entre 663 e 612 a.C.</p><h2>Cenário</h2><p>O Império Assírio havia conquistado o reino do norte de Israel, e agora o reino do sul de Judá estava em perigo de enfrentar o mesmo destino</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

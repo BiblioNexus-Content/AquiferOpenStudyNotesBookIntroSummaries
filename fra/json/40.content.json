@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27697,
+    "reference_id": 26482,
+    "title": "Matthieu",
+    "media_type": "Text",
+    "index_reference": "40000000",
+    "language": "fra",
+    "content": "<p>L’Evangile selon Matthieu</p><h2>Dessein</h2><p>Démontrer que Jésus est le Messie et aider les chrétiens à comprendre comment vivre en relation avec le judaïsme</p><h2>Auteur</h2><p>Matthieu (appelé aussi Lévi), un des douze apôtres de Jésus</p><h2>Date</h2><p>Probablement entre 65 et 80 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit à une époque où les premiers chrétiens luttaient pour comprendre le rapport entre leur nouvelle foi et la religion juive</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001001",
+          "end_ref_usfm": "MAT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

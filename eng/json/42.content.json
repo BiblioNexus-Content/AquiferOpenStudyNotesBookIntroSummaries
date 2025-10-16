@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27399,
+    "reference_id": 26484,
+    "title": "Luke",
+    "media_type": "Text",
+    "index_reference": "42000000",
+    "language": "eng",
+    "content": "<p>The Gospel of Luke</p><h2>Purpose</h2><p>To write a reliable historical account of the life of Jesus that would confirm the truth of the Christian message</p><h2>Author</h2><p>Luke, a physician and occasional companion of the apostle Paul</p><h2>Date</h2><p>Either around AD 59–63, during Paul’s imprisonment in Rome, or between AD 70–90, using the Gospel of Mark as a source</p><h2>Setting</h2><p>Written during a time of increasing tension between Jews and Christians, in which Luke sought to demonstrate that those who believed that Jesus was the Messiah, both Jews and gentiles (non-Jewish people), formed the new people of God</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001001",
+          "end_ref_usfm": "LUK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

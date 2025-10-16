@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27672,
+    "reference_id": 26457,
+    "title": "Esdras",
+    "media_type": "Text",
+    "index_reference": "15000000",
+    "language": "fra",
+    "content": "<p>Le livre d’Esdras</p><h2>Dessein</h2><p>Manifester comment Dieu continue à pourvoir aux besoins de son peuple et montrer comment vivre face à la domination étrangère, à l’opposition et à l’influence païenne</p><h2>Auteur</h2><p>Esdras, d’après la tradition</p><h2>Date</h2><p>Rapporte des événements survenus vers 538–457 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Jérusalem, à partir du premier retour des Juifs exilés et jusqu’à l’arrivée d’Esdras</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001001",
+          "end_ref_usfm": "EZR 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

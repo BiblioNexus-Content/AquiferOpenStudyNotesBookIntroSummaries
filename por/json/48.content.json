@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124318,
+    "reference_id": 26490,
+    "title": "Galatians",
+    "media_type": "Text",
+    "index_reference": "48000000",
+    "language": "por",
+    "content": "<p>A carta de Paulo aos gálatas</p><h2>Propósito</h2><p>Para persuadir os cristãos gentios na Galácia — contra a oposição de certos cristãos judeus — que é desnecessário ser circuncado e adotar outras práticas da lei judaica para fazer parte do povo de Deus</p><h2>Autor</h2><p>Paulo</p><h2>Data</h2><p>Provavelmente 48 ou 49 d.C., pouco antes do conselho de Jerusalém</p><h2>Cenário</h2><p>Escrito após um grupo de cristãos judeus haver se infiltrado nas comunidades da Galácia, ensinando sobre a necessidade de praticar a circuncisão</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001001",
+          "start_ref_usfm": "GAL 1:1",
+          "end_ref": "48001001",
+          "end_ref_usfm": "GAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

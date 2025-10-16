@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27715,
+    "reference_id": 26500,
+    "title": "Hébreux",
+    "media_type": "Text",
+    "index_reference": "58000000",
+    "language": "fra",
+    "content": "<p>La lettre aux Hébreux</p><h2>Dessein</h2><p>Encourager à la persévérance face à la souffrance, essentiellement en soulignant la supériorité de Christ et la suffisance de son œuvre</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Probablement au début des années 60 ap.&nbsp;J.-C.&nbsp;; une autre possibilité serait après 70 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Adressé à un groupe de croyants (probablement à Rome) qui étaient persécutés et luttaient pour garder la foi</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "58001001",
+          "start_ref_usfm": "HEB 1:1",
+          "end_ref": "58001001",
+          "end_ref_usfm": "HEB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

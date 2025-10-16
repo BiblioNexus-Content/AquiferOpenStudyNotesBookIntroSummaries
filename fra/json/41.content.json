@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27698,
+    "reference_id": 26483,
+    "title": "Marc",
+    "media_type": "Text",
+    "index_reference": "41000000",
+    "language": "fra",
+    "content": "<p>L’Evangile selon Marc</p><h2>Dessein</h2><p>Relayer la Bonne Nouvelle de Jésus, le Messie et le Fils de Dieu</p><h2>Auteur</h2><p>Jean Marc&nbsp;; d’après la tradition de l’Eglise primitive, il a mis par écrit les souvenirs de l’apôtre Pierre</p><h2>Date</h2><p>Probablement écrit vers la fin des années 60 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit à une époque où les chrétiens du monde romain étaient persécutés, si bien que les traditions évangéliques devaient être mises par écrit&nbsp;; la destruction de Jérusalem était également imminente</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001001",
+          "end_ref_usfm": "MRK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

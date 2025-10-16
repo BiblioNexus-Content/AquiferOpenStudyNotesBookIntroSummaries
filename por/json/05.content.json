@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124275,
+    "reference_id": 26447,
+    "title": "Deuteronomy",
+    "media_type": "Text",
+    "index_reference": "05000000",
+    "language": "por",
+    "content": "<p>O livro de Deuteronômio</p><h2>Propósito</h2><p>Reiterar e expandir a aliança antes da morte de Moisés e a entrada do povo na Terra Prometida</p><h2>Autor</h2><p>Moisés, de acordo com a tradição</p><h2>Data</h2><p>Provavelmente 1406 a.C. ou 1230 a.C.</p><h2>Cenário</h2><p>Os israelitas estão à beira de entrar na Terra Prometida, e Moisés está se aproximando do fim de sua vida</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05001001",
+          "start_ref_usfm": "DEU 1:1",
+          "end_ref": "05001001",
+          "end_ref_usfm": "DEU 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

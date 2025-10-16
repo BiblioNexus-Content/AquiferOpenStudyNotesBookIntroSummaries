@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124282,
+    "reference_id": 26454,
+    "title": "2 Kings",
+    "media_type": "Text",
+    "index_reference": "12000000",
+    "language": "por",
+    "content": "<p>O segundo livro de Reis</p><h2>Propósito</h2><p>Para esclarecer por que tanto Israel quanto Judá estavam experimentando o exílio da Terra Prometida</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Registra eventos que ocorreram por volta de 853–586 a.C.</p><h2>Cenário</h2><p>Continua a história de 1 Reis do reino dividido, terminando com ambos os reinos experimentando o exílio</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001001",
+          "start_ref_usfm": "2KI 1:1",
+          "end_ref": "12001001",
+          "end_ref_usfm": "2KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

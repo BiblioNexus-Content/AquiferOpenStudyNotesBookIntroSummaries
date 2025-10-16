@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124314,
+    "reference_id": 26486,
+    "title": "Acts",
+    "media_type": "Text",
+    "index_reference": "44000000",
+    "language": "por",
+    "content": "<p>O livro de Atos</p><h2>Propósito</h2><p>Descrever a propagação das Boas Novas de Jesus Cristo e o nascimento da igreja de Jerusalém em todo o mundo romano</p><h2>Autor</h2><p>Lucas, um médico e companheiro ocasional do apóstolo Paulo</p><h2>Data</h2><p>Provavelmente entre o início dos anos 60 d.C. e meados dos anos 80 d.C. Os eventos registrados em Atos terminam no início dos anos 60, mas uma visão comumente aceita sugere que foi escrita mais tarde, presumindo que o Evangelho de Lucas usou o Evangelho de Marcos — provavelmente escrito no final dos anos 60 — como uma fonte</p><h2>Cenário</h2><p>Escrito durante um tempo em que as Boas Novas de Jesus haviam se espalhado pelo mundo mediterrâneo e havia se tornado evidente que a salvação de Deus se estendia tanto a judeus quanto a gentios</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

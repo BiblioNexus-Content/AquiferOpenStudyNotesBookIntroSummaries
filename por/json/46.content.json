@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124316,
+    "reference_id": 26488,
+    "title": "1 Corinthians",
+    "media_type": "Text",
+    "index_reference": "46000000",
+    "language": "por",
+    "content": "<p>A primeira carta de Paulo aos coríntios</p><h2>Propósito</h2><p>Para esclarecer algumas perguntas, a igreja de corinto havia levantado e abordar uma série de problemas específicos que haviam surgido lá na igreja</p><h2>Autor</h2><p>Paulo</p><h2>Data</h2><p>53–56 d.C.</p><h2>Cenário</h2><p>Escrito de Éfeso durante a terceira jornada missionária de Paulo, em resposta aos relatórios e perguntas que ele havia recebido da igreja em Corinto (veja <a href=\"https://ref.ly/1Cor1:11\">1Co 1.11</a>; <a href=\"https://ref.ly/1Cor5:1\">5.1</a>; <a href=\"https://ref.ly/1Cor7:1\">7.1</a>; <a href=\"https://ref.ly/1Cor8:1\">8.1</a>; <a href=\"https://ref.ly/1Cor12:1\">12.1</a>; <a href=\"https://ref.ly/1Cor16:1\">16.1</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46001001",
+          "start_ref_usfm": "1CO 1:1",
+          "end_ref": "46001001",
+          "end_ref_usfm": "1CO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

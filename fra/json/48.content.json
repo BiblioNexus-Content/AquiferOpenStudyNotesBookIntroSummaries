@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27705,
+    "reference_id": 26490,
+    "title": "Galates",
+    "media_type": "Text",
+    "index_reference": "48000000",
+    "language": "fra",
+    "content": "<p>La lettre de Paul aux Galates</p><h2>Dessein</h2><p>Persuader les chrétiens d’origine non-juive de Galatie que, contrairement à l’enseignement de certains chrétiens d’origine juive, il était inutile qu’ils se fassent circoncire et adoptent d’autres pratiques de la loi juive pour faire partie du peuple de Dieu</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Probablement en 48 ou 49, juste avant le concile de Jérusalem ap.&nbsp;J.-C.,</p><h2>Cadre</h2><p>Écrit après qu’un groupe de judéo-chrétiens aient infiltré l’église de Galatie, en enseignant la nécessité de la circoncision</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001001",
+          "start_ref_usfm": "GAL 1:1",
+          "end_ref": "48001001",
+          "end_ref_usfm": "GAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

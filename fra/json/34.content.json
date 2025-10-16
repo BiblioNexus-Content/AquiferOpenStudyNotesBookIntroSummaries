@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27691,
+    "reference_id": 26476,
+    "title": "Nahum",
+    "media_type": "Text",
+    "index_reference": "34000000",
+    "language": "fra",
+    "content": "<p>Le livre de Nahum</p><h2>Dessein</h2><p>Annoncer le jugement à venir de Dieu sur Ninive, la capitale assyrienne, afin d’offrir de l’espérance au peuple de Juda</p><h2>Auteur</h2><p>Nahum</p><h2>Date</h2><p>Entre 663 et 612 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>L’Empire assyrien avait conquis le Royaume du Nord, d’Israël, si bien que le Royaume du Sud, de Juda, était à présent en danger qu’il lui arrive la même chose</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

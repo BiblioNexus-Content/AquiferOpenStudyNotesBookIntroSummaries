@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124305,
+    "reference_id": 26477,
+    "title": "Habakkuk",
+    "media_type": "Text",
+    "index_reference": "35000000",
+    "language": "por",
+    "content": "<p>O Livro de Habacuque</p><h2>Propósito</h2><p>Para abordar algumas perguntas difíceis sobre os propósitos de Deus e a presença do mal no mundo</p><h2>Autor</h2><p>Habacuque</p><h2>Data</h2><p>Provavelmente entre 645 e 605 a.C.</p><h2>Cenário</h2><p>Os últimos anos do reino independente de Judá, quando o poder Assírio estava enfraquecendo, mas o poder babilônico estava aumentando</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001001",
+          "start_ref_usfm": "HAB 1:1",
+          "end_ref": "35001001",
+          "end_ref_usfm": "HAB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

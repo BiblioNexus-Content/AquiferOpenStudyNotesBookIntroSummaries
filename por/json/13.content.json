@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124283,
+    "reference_id": 26455,
+    "title": "1 Chronicles",
+    "media_type": "Text",
+    "index_reference": "13000000",
+    "language": "por",
+    "content": "<p>O primeiro livro das Crônicas</p><h2>Propósito</h2><p>Para plantar esperança — em grande parte por apelo à promessa davídica — entre judeus que haviam voltado para sua terra, mas estavam vivendo em subjugação</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Provavelmente escrito por volta de 400 a.C., registrando em grande parte eventos que ocorreram por volta de 1011–971 a.C.</p><h2>Cenário</h2><p>A Judeia havia sido reassentada por judeus após o Exílio, mas esses judeus ainda estavam vivendo sob governo estrangeiro (persa); o relato essencialmente traça o reinado de Davi</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

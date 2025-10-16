@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27666,
+    "reference_id": 26451,
+    "title": "1 Samuel",
+    "media_type": "Text",
+    "index_reference": "09000000",
+    "language": "fra",
+    "content": "<p>Le premier livre de Samuel</p><h2>Dessein</h2><p>Raconter l’établissement de la monarchie israélite et mettre en avant les différences de caractère entre les deux premiers rois d’Israël</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Rapporte des événements survenus vers 1050–1011 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>La transition entre la période des juges et la monarchie israélite</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09001001",
+          "start_ref_usfm": "1SA 1:1",
+          "end_ref": "09001001",
+          "end_ref_usfm": "1SA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

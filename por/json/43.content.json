@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124313,
+    "reference_id": 26485,
+    "title": "John",
+    "media_type": "Text",
+    "index_reference": "43000000",
+    "language": "por",
+    "content": "<p>O Evangelho de João</p><h2>Propósito</h2><p>Gerar a crença em Jesus como Messias e Filho de Deus e conectar esta crença com a vida eterna</p><h2>Autor</h2><p>Provavelmente o “discípulo amado”, tradicionalmente identificado como João, filho de Zebedeu</p><h2>Data</h2><p>Por volta de 90 d.C.</p><h2>Cenário</h2><p>Escrito no final da vida de João durante um tempo em que os primeiros seguidores de Jesus estavam enfrentando conflitos das sinagogas locais</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

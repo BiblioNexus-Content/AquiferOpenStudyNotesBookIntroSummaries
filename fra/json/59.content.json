@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27716,
+    "reference_id": 26501,
+    "title": "Jacques",
+    "media_type": "Text",
+    "index_reference": "59000000",
+    "language": "fra",
+    "content": "<p>La lettre de Jacques</p><h2>Dessein</h2><p>Partager des conseils pratiques et mettre les lecteurs au défi de garder la foi, une foi active et centrée sur les autres</p><h2>Auteur</h2><p>Jacques, le frère de Jésus</p><h2>Date</h2><p>Vers 46 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Adressé, probablement depuis Jérusalem, à des croyants juifs dispersés après la persécution qui avait commencé après le martyr d’Etienne</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

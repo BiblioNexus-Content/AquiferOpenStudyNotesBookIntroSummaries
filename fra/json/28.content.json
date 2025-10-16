@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27685,
+    "reference_id": 26470,
+    "title": "Osée",
+    "media_type": "Text",
+    "index_reference": "28000000",
+    "language": "fra",
+    "content": "<p>Le livre d’Osée</p><h2>Dessein</h2><p>Dépeindre l’infidélité d’Israël et le jugement à venir, tout en manifestant le désir de Dieu de guérir et de restaurer son peuple</p><h2>Auteur</h2><p>Osée</p><h2>Date</h2><p>Vers 760–722 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Le Royaume du Nord, d’Israël, pendant les jours avant sa destruction par l’Assyrie</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

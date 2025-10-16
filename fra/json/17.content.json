@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27674,
+    "reference_id": 26459,
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "17000000",
+    "language": "fra",
+    "content": "<p>Le livre d’Esther</p><h2>Objectif</h2><ol><li><p>Montrer la protection providentielle de Dieu à l&apos;égard de son peuple</p></li><li><p>Expliquer et retracer les origines de la fête juive appelée Purim (Pourim)</p></li></ol><h2>Auteur</h2><p>Inconnu</p><h2>Date de composition</h2><p>Ce livre rapporte des événements qui sont survenus vers 483–473 av.&nbsp;J.-C. La date de composition n&apos;est pas connue.</p><h2>Cadre</h2><p>L&apos;histoire se déroule dans la capitale de l&apos;empire perse, Suse, pendant le règne d&apos;Assuérus, alors qu’un certain nombre de Juifs sont retournés en Judée. Le roi Assuérus est parfois appelé Xerxès selon les versions de la Bible.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001001",
+          "end_ref_usfm": "EST 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

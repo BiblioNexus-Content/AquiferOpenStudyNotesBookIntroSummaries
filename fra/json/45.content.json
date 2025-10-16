@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27702,
+    "reference_id": 26487,
+    "title": "Romains",
+    "media_type": "Text",
+    "index_reference": "45000000",
+    "language": "fra",
+    "content": "<p>La lettre de Paul aux Romains</p><h2>Dessein</h2><p>Exposer la Bonne Nouvelle et résoudre les divisions théologiques et sociales survenues dans une église composée à la fois de Juifs et de non-Juifs</p><h2>Auteur</h2><p>Paul</p><h2>Date</h2><p>Probablement vers 57 ap.&nbsp;J.-C., vers la fin du troisième voyage missionnaire</p><h2>Cadre</h2><p>Probablement écrit à Corinthe, vers la fin de l’activité missionnaire de Paul, alors qu’il prévoyait de rendre visite à l’église de Rome, en route pour l’Espagne, après avoir apporté un don à l’église de Jérusalem</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45001001",
+          "start_ref_usfm": "ROM 1:1",
+          "end_ref": "45001001",
+          "end_ref_usfm": "ROM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

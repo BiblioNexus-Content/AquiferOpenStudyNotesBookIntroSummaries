@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124284,
+    "reference_id": 26456,
+    "title": "2 Chronicles",
+    "media_type": "Text",
+    "index_reference": "14000000",
+    "language": "por",
+    "content": "<p>O segundo livro de Crônicas</p><h2>Propósito</h2><p>Dar aos leitores esperança de um reino restaurado de Israel caracterizado pela adoração adequada</p><h2>Autor</h2><p>Desconhecido</p><h2>Data</h2><p>Provavelmente escrito por volta de 400 a.C., registrando eventos que ocorreram por volta de 971–538 a.C.</p><h2>Cenário</h2><p>Judeia pós-exílica durante o governo persa; o relato começa com o reinado de Salomão e termina com a proclamação de Ciro, permitindo que o povo volte para a Judeia</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14001001",
+          "start_ref_usfm": "2CH 1:1",
+          "end_ref": "14001001",
+          "end_ref_usfm": "2CH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

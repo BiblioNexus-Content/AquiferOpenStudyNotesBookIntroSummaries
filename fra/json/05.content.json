@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27662,
+    "reference_id": 26447,
+    "title": "Deutéronome",
+    "media_type": "Text",
+    "index_reference": "05000000",
+    "language": "fra",
+    "content": "<p>Le livre du Deutéronome</p><h2>Dessein</h2><p>Renouveler et développer l’alliance, avant la mort de Moïse et l’entrée du peuple dans la terre promise</p><h2>Auteur</h2><p>Moïse, d’après la tradition</p><h2>Date</h2><p>Probablement vers 1406 av.&nbsp;J.-C. ou vers 1230 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Les Israélites sont sur le point d’entrer dans la terre promise et Moïse s’approche de la fin de sa vie</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05001001",
+          "start_ref_usfm": "DEU 1:1",
+          "end_ref": "05001001",
+          "end_ref_usfm": "DEU 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

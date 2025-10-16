@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27675,
+    "reference_id": 26460,
+    "title": "Job",
+    "media_type": "Text",
+    "index_reference": "18000000",
+    "language": "fra",
+    "content": "<p>Le livre de Job</p><h2>Dessein</h2><p>Proposer une réflexion autour de la question de la souffrance humaine, d’abord en remettant en cause le rapport couramment défendu entre bonté morale et prospérité</p><h2>Auteur</h2><p>Inconnue</p><h2>Date</h2><p>Inconnue</p><h2>Cadre</h2><p>La période des patriarches, peut-être dans le pays d’Edom</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

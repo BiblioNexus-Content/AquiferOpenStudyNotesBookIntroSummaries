@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27382,
+    "reference_id": 26467,
+    "title": "Lamentations",
+    "media_type": "Text",
+    "index_reference": "25000000",
+    "language": "eng",
+    "content": "<p>The Book of Lamentations</p><h2>Purpose</h2><ol><li><p>To express deep sorrow over the destruction of Jerusalem </p></li><li><p>To offer a small sign of hope to God’s people</p></li></ol><h2>Author</h2><p>Likely Jeremiah</p><h2>Date</h2><p>Around 586 BC</p><h2>Setting</h2><p>The result of the Babylonian invasion, the destruction of Jerusalem, and the exile of the people of Judah</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "25001001",
+          "start_ref_usfm": "LAM 1:1",
+          "end_ref": "25001001",
+          "end_ref_usfm": "LAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

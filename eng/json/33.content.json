@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27390,
+    "reference_id": 26475,
+    "title": "Micah",
+    "media_type": "Text",
+    "index_reference": "33000000",
+    "language": "eng",
+    "content": "<p>The Book of Micah</p><h2>Purpose</h2><p>To proclaim judgment against Samaria and Jerusalem, but also to offer a strong message of hope for Israel’s future</p><h2>Author</h2><p>Micah</p><h2>Date</h2><p>Around 735–686 BC</p><h2>Setting</h2><p>The northern kingdom of Israel shortly before its destruction and the southern kingdom of Judah during the reigns of Jotham, Ahaz, and Hezekiah</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "33001001",
+          "start_ref_usfm": "MIC 1:1",
+          "end_ref": "33001001",
+          "end_ref_usfm": "MIC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

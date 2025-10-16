@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27717,
+    "reference_id": 26502,
+    "title": "1 Pierre",
+    "media_type": "Text",
+    "index_reference": "60000000",
+    "language": "fra",
+    "content": "<p>La première lettre de Pierre</p><h2>Dessein</h2><p>Encourager les croyants qui souffrent à continuer à vivre dans la sainteté, afin de rendre témoignage à Christ</p><h2>Auteur</h2><p>Pierre</p><h2>Date</h2><p>Au début des années 60 ap.&nbsp;J.-C.</p><h2>Cadre</h2><p>Écrit vers la fin de la vie de Pierre, à des croyants au Nord de l’Asie mineure, qui étaient persécutés</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001001",
+          "end_ref_usfm": "1PE 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

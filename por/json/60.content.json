@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124330,
+    "reference_id": 26502,
+    "title": "1 Peter",
+    "media_type": "Text",
+    "index_reference": "60000000",
+    "language": "por",
+    "content": "<p>A primeira carta de Pedro</p><h2>Propósito</h2><p>Encorajar os crentes que estavam sofrendo a manter uma vida de santidade e, assim, dar testemunho de Cristo</p><h2>Autor</h2><p>Pedro</p><h2>Data</h2><p>Início dos anos 60 d.C.</p><h2>Cenário</h2><p>Escrito no final da vida de Pedro aos crentes no norte da Ásia Menor que estavam experimentando perseguição</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001001",
+          "end_ref_usfm": "1PE 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

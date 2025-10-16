@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27394,
+    "reference_id": 26479,
+    "title": "Haggai",
+    "media_type": "Text",
+    "index_reference": "37000000",
+    "language": "eng",
+    "content": "<p>The Book of Haggai</p><h2>Purpose</h2><p>To encourage the Jewish people to resume temple reconstruction and to promote spiritual renewal</p><h2>Author</h2><p>Haggai</p><h2>Date</h2><p>520 BC</p><h2>Setting</h2><p>Jerusalem, almost twenty years after Cyrus had allowed the Jewish people to return and rebuild the temple</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 124300,
+    "reference_id": 26472,
+    "title": "Amos",
+    "media_type": "Text",
+    "index_reference": "30000000",
+    "language": "por",
+    "content": "<p>O livro de Amós</p><h2>Propósito</h2><p>Para confrontar a apostasia e opressão contra os marginalizados praticadas pelo reino do norte</p><h2>Autor</h2><p>Amós</p><h2>Data</h2><p>Por volta de 755 a.C.</p><h2>Cenário</h2><p>O santuário em Betel no reino do norte, durante o reinado de Jeroboão II</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

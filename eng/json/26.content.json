@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27383,
+    "reference_id": 26468,
+    "title": "Ezekiel",
+    "media_type": "Text",
+    "index_reference": "26000000",
+    "language": "eng",
+    "content": "<p>The Book of Ezekiel</p><h2>Purpose</h2><ol><li><p>To pronounce the impending judgment on Judah </p></li><li><p>To offer hope following Jerusalem’s destruction</p></li></ol><h2>Author</h2><p>Ezekiel</p><h2>Date</h2><p>Around 593–571 BC</p><h2>Setting</h2><p>Exile in Babylon, immediately before, during, and after the destruction of Jerusalem</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
